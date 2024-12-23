@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce2bff201744da52",
+        "id": "cb0d6436156169ac",
         "type": "tabs",
         "children": [
           {
-            "id": "88acebf762476e87",
+            "id": "31fb4cbfa3895b9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Habits/Atomic Habits.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Atomic Habits"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.5
   },
   "right": {
     "id": "f3c0fc2e0b12cb6b",
@@ -158,35 +162,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88acebf762476e87",
+  "active": "31fb4cbfa3895b9c",
   "lastOpenFiles": [
-    "Git.md",
+    "Atomic Habits/Шестая заметка Атомные Привычки.md",
+    "Atomic Habits/Atomic Habits.md",
+    "Atomic Habits/Вторая заметка Атомные Привычки.md",
+    "Atomic Habits/Первая заметка Атомные Привычки.md",
+    "Atomic Habits/Пятая заметка Атомные Привычки.md",
+    "Atomic Habits/Третья заметка Атомные Привычки.md",
+    "Atomic Habits/Четвертая заметка Атомные Привычки.md",
+    "Untitled.md",
     "GO.md",
-    "Kafka.md",
-    "song-library-go.md",
-    "go-grpc-graphql-microservice.md",
-    "Легенда.md",
-    "order-managment-system-go.md",
-    "Atomic Habits.md",
-    "Третья заметка Атомные Привычки.md",
-    "crypto-analytics-go.md",
-    "Django.md",
-    "FastAPI.md",
-    "IP пакет.md",
-    "Operating Systems.md",
     "Python.md",
-    "React.md",
-    "State Managers.md",
-    "Zustand.md",
-    "Закон Амдала - параллельное программирование.md",
-    "Вторая моя лекция ОЭД.md",
-    "Кеширование.md",
-    "RSS Aggregator.md",
-    "img/OMS.png",
-    "Сеть.md",
+    "Operating Systems.md",
     "Работа с процессами и потоками в C.md",
+    "building-microservices-with-go.md",
+    "projects/go-grpc-graphql-microservice.md",
+    "projects",
+    "projects/song-library-go.md",
+    "projects/RSS Aggregator.md",
+    "projects/order-managment-system-go.md",
+    "NEXT <3.md",
+    "Kafka.md",
+    "IP пакет.md",
+    "Git.md",
+    "FastAPI.md",
+    "Django.md",
+    "projects/crypto-analytics-go.md",
+    "Сеть.md",
     "Планировщик Go.md",
-    "Первая заметка Атомные Привычки.md",
+    "Atomic Habits",
+    "img/OMS.png",
     "img/kafka.png",
     "img/scheduler1.png",
     "img/scheduler6.png",

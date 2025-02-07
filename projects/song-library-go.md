@@ -11,8 +11,8 @@ go get -u github.com/swaggo/http-swagger
 
 postgres://pariram:@localhost:5432/song-library?sslmode=disable
 goose -dir ./sql/schema postgres postgres://pariram:@localhost:5432/song_library up
+sqlc generate
 swag init
-
 ### SWAGGER
 ```
 package main

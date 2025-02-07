@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0d6436156169ac",
+        "id": "5ed7ecd37158cdad",
         "type": "tabs",
         "children": [
           {
-            "id": "31fb4cbfa3895b9c",
+            "id": "30c07e22a47e725d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic Habits/Atomic Habits.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Atomic Habits"
+              "title": "New tab"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 200
   },
   "right": {
     "id": "f3c0fc2e0b12cb6b",
@@ -162,35 +158,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31fb4cbfa3895b9c",
+  "active": "30c07e22a47e725d",
   "lastOpenFiles": [
-    "Atomic Habits/Шестая заметка Атомные Привычки.md",
-    "Atomic Habits/Atomic Habits.md",
-    "Atomic Habits/Вторая заметка Атомные Привычки.md",
-    "Atomic Habits/Первая заметка Атомные Привычки.md",
-    "Atomic Habits/Пятая заметка Атомные Привычки.md",
-    "Atomic Habits/Третья заметка Атомные Привычки.md",
-    "Atomic Habits/Четвертая заметка Атомные Привычки.md",
-    "Untitled.md",
-    "GO.md",
+    "Redis.md",
     "Python.md",
     "Operating Systems.md",
-    "Работа с процессами и потоками в C.md",
-    "building-microservices-with-go.md",
-    "projects/go-grpc-graphql-microservice.md",
-    "projects",
-    "projects/song-library-go.md",
-    "projects/RSS Aggregator.md",
-    "projects/order-managment-system-go.md",
     "NEXT <3.md",
     "Kafka.md",
     "IP пакет.md",
+    "GO.md",
     "Git.md",
     "FastAPI.md",
+    "Expo.md",
     "Django.md",
-    "projects/crypto-analytics-go.md",
+    "building-microservices-with-go.md",
+    "Brew.md",
+    "Транзакции.md",
+    "Собес-js.md",
     "Сеть.md",
+    "Работа с процессами и потоками в C.md",
     "Планировщик Go.md",
+    "Приветствие.md",
+    "Настройки мака.md",
+    "Кеширование.md",
+    "Закон Амдала - параллельное программирование.md",
+    "Вопросы с собеса.md",
+    "Дебаты.md",
+    "Релиз.md",
+    "projects/Проекты.md",
+    "pdf",
+    "pdf/C++_Zadan_LR_A5_(МТУСИ-2) (1).pdf",
+    "TablZadan-1-Program.xlsx",
+    "Учебно_методическое_пособие_МиСПИСиТ.docx",
+    "ЛАБОРАТОРНЫЙ_ПРАКТИКУМ_МиСПИСиТ.docx",
+    "univ",
+    "img/Фантомное чтение.png",
+    "img/Неповторяющиеся чтение.png",
+    "img/Грязное чтение.png",
+    "img/2Q.png",
+    "projects",
     "Atomic Habits",
     "img/OMS.png",
     "img/kafka.png",
@@ -198,10 +204,6 @@
     "img/scheduler6.png",
     "img/scheduler5.png",
     "img/scheduler4.png",
-    "img/scheduler3.png",
-    "img/scheduler.png",
-    "img/IP пакет.png",
-    "img/Ускорение кода.png",
     "img",
     "Untitled.canvas",
     "Untitled 1.canvas"
